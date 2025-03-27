@@ -4,4 +4,10 @@ The error you're seeing occurs
   alias for the Get-ChildItem cmdlet, but the -a
    option is not valid in PowerShell. 
 In PowerShell, the correct option to show hidden files is -Force.
+
+
+
+New line added to show modification
+
 new line added from manual
+
